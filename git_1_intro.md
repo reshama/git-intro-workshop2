@@ -38,6 +38,13 @@ Branching means you diverge from the main line of development and continue to do
 
 ---
 
+##[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
+
+###[What Is Markdown? 4 Reasons Why You Should Learn It Now](http://www.makeuseof.com/tag/markdown-4-reasons-learn-now/)  
+Markdown is a simple way to add formatting — like headers, bold/italic text, and lists — to plain text. Rather than relying on HTML or WYSIWYG editors, Markdown allows you to create full pages of formatted text without ever having to remove your fingers from the keyboard, and all in a way that’s much more intuitive than HTML.  
+
+---
+
 ## Resources
 
 ####[Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
